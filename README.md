@@ -55,11 +55,11 @@ I chose three distances (three different models) to evaluate their performance. 
 
 #### Results
 
-![results1](.\results1.png)
+![results1](results1.png)
 
 We can see that although `euclid` does produce less squared error, in the P/R performs worse than `pearson`.
 
-![results2](.\results_2.png)
+![results2](results_2.png)
 
 
 
@@ -77,9 +77,9 @@ As similarities in the prediction step we implemented the dot product and the co
 
 We can see how the dot product performs way better than the cosine similarity.
 
-![results4](.\results4.png)
+![results4](results4.png)
 
-![results3](.\results3.png)
+![results3](results3.png)
 
 
 
